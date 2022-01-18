@@ -48,7 +48,7 @@ zodiac() {
        echo "🐔"
     elif [ $lny -eq 11 ]; then
        echo "🐶"
-    elif [ $lny -eq 12 ]; then
+    elif [ $lny -eq 0 ]; then
        echo "🐷"
     else
        echo "🐼"
